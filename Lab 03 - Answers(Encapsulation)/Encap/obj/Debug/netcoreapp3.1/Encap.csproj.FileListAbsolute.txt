@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Encap\Encap\bin\Debug\netcoreapp3.1\Encap.exe
+C:\Users\HP\source\repos\Encap\Encap\bin\Debug\netcoreapp3.1\Encap.deps.json
+C:\Users\HP\source\repos\Encap\Encap\bin\Debug\netcoreapp3.1\Encap.runtimeconfig.json
+C:\Users\HP\source\repos\Encap\Encap\bin\Debug\netcoreapp3.1\Encap.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Encap\Encap\bin\Debug\netcoreapp3.1\Encap.dll
+C:\Users\HP\source\repos\Encap\Encap\bin\Debug\netcoreapp3.1\Encap.pdb
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.AssemblyInfo.cs
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.dll
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.pdb
+C:\Users\HP\source\repos\Encap\Encap\obj\Debug\netcoreapp3.1\Encap.genruntimeconfig.cache

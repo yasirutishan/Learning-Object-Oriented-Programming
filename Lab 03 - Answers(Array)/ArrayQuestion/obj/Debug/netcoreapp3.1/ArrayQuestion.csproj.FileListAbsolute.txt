@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.exe
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.deps.json
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.runtimeconfig.json
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.dll
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.pdb
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.AssemblyInfo.cs
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.dll
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.pdb
+C:\Users\HP\source\repos\ArrayQuestion\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.genruntimeconfig.cache
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.exe
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.deps.json
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.runtimeconfig.json
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.runtimeconfig.dev.json
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.dll
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\bin\Debug\netcoreapp3.1\ArrayQuestion.pdb
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.csprojAssemblyReference.cache
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.csproj.CoreCompileInputs.cache
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.AssemblyInfoInputs.cache
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.AssemblyInfo.cs
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.dll
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.pdb
+D:\NSBM - Lectures\C# - 19.1 Ply\Lab 03 - Answers(Array)\ArrayQuestion\obj\Debug\netcoreapp3.1\ArrayQuestion.genruntimeconfig.cache
