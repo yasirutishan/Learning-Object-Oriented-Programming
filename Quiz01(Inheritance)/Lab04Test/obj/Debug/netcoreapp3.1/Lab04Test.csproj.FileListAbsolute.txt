@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\bin\Debug\netcoreapp3.1\Lab04Test.exe
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\bin\Debug\netcoreapp3.1\Lab04Test.deps.json
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\bin\Debug\netcoreapp3.1\Lab04Test.runtimeconfig.json
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\bin\Debug\netcoreapp3.1\Lab04Test.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\bin\Debug\netcoreapp3.1\Lab04Test.dll
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\bin\Debug\netcoreapp3.1\Lab04Test.pdb
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.dll
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.pdb
+C:\Users\HP\source\repos\Lab04Test\Lab04Test\obj\Debug\netcoreapp3.1\Lab04Test.genruntimeconfig.cache

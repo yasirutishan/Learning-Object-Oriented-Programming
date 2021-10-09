@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\obj\Debug\netcoreapp3.1\Quiz02(Inheritance).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\obj\Debug\netcoreapp3.1\Quiz02(Inheritance).AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\obj\Debug\netcoreapp3.1\Quiz02(Inheritance).AssemblyInfo.cs
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\bin\Debug\netcoreapp3.1\Quiz02(Inheritance).exe
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\bin\Debug\netcoreapp3.1\Quiz02(Inheritance).deps.json
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\bin\Debug\netcoreapp3.1\Quiz02(Inheritance).runtimeconfig.json
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\bin\Debug\netcoreapp3.1\Quiz02(Inheritance).runtimeconfig.dev.json
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\bin\Debug\netcoreapp3.1\Quiz02(Inheritance).dll
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\bin\Debug\netcoreapp3.1\Quiz02(Inheritance).pdb
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\obj\Debug\netcoreapp3.1\Quiz02(Inheritance).dll
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\obj\Debug\netcoreapp3.1\Quiz02(Inheritance).pdb
+C:\Users\HP\source\repos\Quiz02(Inheritance)\Quiz02(Inheritance)\obj\Debug\netcoreapp3.1\Quiz02(Inheritance).genruntimeconfig.cache

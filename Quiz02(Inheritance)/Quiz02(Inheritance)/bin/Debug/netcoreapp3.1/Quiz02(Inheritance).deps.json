@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quiz02(Inheritance)/1.0.0": {
+        "runtime": {
+          "Quiz02(Inheritance).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz02(Inheritance)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
