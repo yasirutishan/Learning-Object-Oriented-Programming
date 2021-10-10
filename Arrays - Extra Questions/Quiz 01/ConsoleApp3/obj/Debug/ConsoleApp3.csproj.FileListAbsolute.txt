@@ -1,0 +1,14 @@
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+F:\Projects\C#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\NSBM - Lectures\C# - 19.2 Group A\C# answers - Lab 03\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
